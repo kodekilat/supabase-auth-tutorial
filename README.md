@@ -14,6 +14,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY="SUPABASE_ANON_KEY_ANDA"
 lalu jalankan server developement:
 
 ```bash
+npm install
 npm run dev
 ```
 
